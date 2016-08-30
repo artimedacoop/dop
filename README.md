@@ -1,0 +1,2 @@
+# dop
+Directory Open Plugin
